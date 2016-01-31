@@ -1,6 +1,8 @@
 ## Reimplementing Neural Tensor Networks for Knowledge Base Completion (KBC) in the TensorFlow framework
 ###### Alex LeNail, Clare Liu, Dustin Doss
 
+[![Join the chat at https://gitter.im/technologiclee/tensorflow-socher-ntn](https://badges.gitter.im/technologiclee/tensorflow-socher-ntn.svg)](https://gitter.im/technologiclee/tensorflow-socher-ntn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Abstract
 
 [Reasoning with Neural Tensor Networks for Knowledge Base Completion](http://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf) has become something of a seminal paper in the short span of two years, cited by nearly every knowledge base completion (KBC) paper since it's publication in 2013. It was one of the first major successful forays into the field of Deep Learning approaches to knowledge base completion, and was unique for using deep learning "end to end".
